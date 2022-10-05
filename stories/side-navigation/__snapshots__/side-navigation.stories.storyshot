@@ -1,30 +1,659 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Storyshots Deprecated/Components/Side Navigation Complex (compact) 1`] = `
+exports[`Storyshots Components/Side Navigation Compact Narrow 1`] = `
+<div
+  dir="ltr"
+>
+  <nav
+    class="fd-side-nav fd-side-nav--compact fd-side-nav--narrow"
+  >
+    
+    
+    <div
+      class="fd-side-nav__main-navigation"
+    >
+      
+        
+      <ul
+        class="fd-nested-list fd-nested-list--compact level-1"
+      >
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            aria-label="Level 1 Item"
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--home"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            aria-label="Level 1 Item"
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--map"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item fd-popover"
+        >
+          
+                
+          <button
+            aria-expanded="false"
+            aria-label="Expand Level 2"
+            class="fd-nested-list__link fd-popover__control is-selected"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--calendar"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                        
+              <i
+                class="fd-nested-list__arrow sap-icon--navigation-right-arrow"
+                role="presentation"
+              />
+              
+                    
+            </div>
+            
+                
+          </button>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            aria-label="Level 1 Item"
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--activities"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            aria-label="Level 1 Item"
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--bar-chart"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+        
+      </ul>
+      
+    
+    </div>
+    
+    
+    <div
+      class="fd-side-nav__utility"
+    >
+      
+        
+      <ul
+        aria-label="Utility Menu"
+        class="fd-nested-list fd-nested-list--compact level-1"
+      >
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            aria-label="Level 1 Item"
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--compare"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            aria-label="Level 1 Item"
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--chain-link"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+        
+      </ul>
+      
+    
+    </div>
+    
+
+  </nav>
+  
+
+</div>
+`;
+
+exports[`Storyshots Components/Side Navigation Compact Narrow Popover 1`] = `
 <div
   dir="ltr"
 >
   <div
-    class="fd-side-nav"
+    style="height: 300px;"
   >
     
-    
-    <a
-      class="fd-side-nav__skip-link"
-      href="#content"
-    >
-      Skip navigation
-    </a>
-    
-    
+
     <div
-      class="fd-side-nav__group-header"
-      id="EX500H1"
+      class="fd-popover"
     >
       
-        Group Header 1
+    
+      <div
+        class="fd-popover__control"
+      >
+        
+    
+      </div>
+      
+
+    
+      <nav
+        "=""
+        class="fd-side-nav__popover-body fd-popover__body fd-popover__body--no-arrow"
+      >
+        
+            
+        <ul
+          class="fd-nested-list fd-nested-list--compact level-2"
+        >
+          
+                
+          <li
+            class="fd-nested-list__item fd-nested-list__item--header"
+          >
+            
+                    
+            <h3
+              class="fd-nested-list__link"
+            >
+              
+                        
+              <div
+                class="fd-nested-list__link-container"
+              >
+                
+                            
+                <span
+                  class="fd-nested-list__title"
+                >
+                  Sales
+                </span>
+                
+                        
+              </div>
+              
+                    
+            </h3>
+            
+                
+          </li>
+          
+                
+          <li
+            class="fd-nested-list__item"
+          >
+            
+                    
+            <a
+              class="fd-nested-list__link"
+              href="#"
+            >
+              
+                        
+              <div
+                class="fd-nested-list__link-container"
+              >
+                
+                            
+                <span
+                  class="fd-nested-list__title"
+                >
+                  Level 2 Item
+                </span>
+                
+                        
+              </div>
+              
+                    
+            </a>
+            
+                
+          </li>
+          
+                
+          <li
+            class="fd-nested-list__item"
+          >
+            
+                    
+            <button
+              aria-expanded="true"
+              aria-label="Expand Level 3"
+              class="fd-nested-list__link is-selected"
+            >
+              
+                        
+              <div
+                class="fd-nested-list__link-container"
+              >
+                
+                            
+                <span
+                  class="fd-nested-list__title"
+                >
+                  Level 2 Item
+                </span>
+                
+                            
+                <i
+                  class="fd-nested-list__arrow sap-icon--navigation-down-arrow"
+                  role="presentation"
+                />
+                
+                        
+              </div>
+              
+                    
+            </button>
+            
+                    
+            <ul
+              aria-hidden="false"
+              class="fd-nested-list level-3"
+            >
+              
+                            
+              <li
+                class="fd-nested-list__item"
+              >
+                
+                                
+                <a
+                  class="fd-nested-list__link"
+                  href="#"
+                >
+                  
+                                    
+                  <div
+                    class="fd-nested-list__link-container"
+                  >
+                    
+                                        
+                    <span
+                      class="fd-nested-list__title"
+                    >
+                      Level 3 Item
+                    </span>
+                    
+                                    
+                  </div>
+                  
+                                
+                </a>
+                
+                            
+              </li>
+              
+                            
+              <li
+                class="fd-nested-list__item"
+              >
+                
+                                
+                <a
+                  class="fd-nested-list__link"
+                  href="#"
+                >
+                  
+                                    
+                  <div
+                    class="fd-nested-list__link-container"
+                  >
+                    
+                                        
+                    <span
+                      class="fd-nested-list__title"
+                    >
+                      Level 3 Item
+                    </span>
+                    
+                                    
+                  </div>
+                  
+                                
+                </a>
+                
+                            
+              </li>
+              
+                            
+              <li
+                class="fd-nested-list__item"
+              >
+                
+                                
+                <a
+                  class="fd-nested-list__link"
+                  href="#"
+                >
+                  
+                                    
+                  <div
+                    class="fd-nested-list__link-container"
+                  >
+                    
+                                        
+                    <span
+                      class="fd-nested-list__title"
+                    >
+                      Level 3 Item
+                    </span>
+                    
+                                    
+                  </div>
+                  
+                                
+                </a>
+                
+                            
+              </li>
+              
+                        
+            </ul>
+            
+                
+          </li>
+          
+                
+          <li
+            class="fd-nested-list__item"
+          >
+            
+                    
+            <a
+              class="fd-nested-list__link"
+              href="#"
+            >
+              
+                        
+              <div
+                class="fd-nested-list__link-container"
+              >
+                
+                            
+                <span
+                  class="fd-nested-list__title"
+                >
+                  Level 2 Item
+                </span>
+                
+                        
+              </div>
+              
+                    
+            </a>
+            
+                
+          </li>
+          
+                
+          <li
+            class="fd-nested-list__item"
+          >
+            
+                    
+            <a
+              class="fd-nested-list__link"
+              href="#"
+            >
+              
+                        
+              <div
+                class="fd-nested-list__link-container"
+              >
+                
+                            
+                <span
+                  class="fd-nested-list__title"
+                >
+                  Level 2 Item
+                </span>
+                
+                        
+              </div>
+              
+                    
+            </a>
+            
+                
+          </li>
+          
+            
+        </ul>
+        
+        
+      </nav>
+      
     
     </div>
+    
+
+  </div>
+  
+
+</div>
+`;
+
+exports[`Storyshots Components/Side Navigation Compact Wide With Icons, Level 2 Collapsed 1`] = `
+<div
+  dir="ltr"
+>
+  <div
+    class="fd-side-nav fd-side-nav--compact"
+  >
     
     
     <nav
@@ -35,7 +664,7 @@ exports[`Storyshots Deprecated/Components/Side Navigation Complex (compact) 1`] 
         
       <ul
         aria-labelledby="EX500H1"
-        class="fd-nested-list fd-nested-list--compact"
+        class="fd-nested-list fd-nested-list--compact level-1"
       >
         
             
@@ -50,17 +679,25 @@ exports[`Storyshots Deprecated/Components/Side Navigation Complex (compact) 1`] 
           >
             
                     
-            <i
-              class="fd-nested-list__icon sap-icon--home"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
+            <div
+              class="fd-nested-list__link-container"
             >
-              Level 1 Item
-            </span>
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--home"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
             
                 
           </a>
@@ -75,48 +712,57 @@ exports[`Storyshots Deprecated/Components/Side Navigation Complex (compact) 1`] 
           
                 
           <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--map"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <button
+            aria-expanded="false"
+            aria-label="Expand Level 2"
             class="fd-nested-list__link is-selected"
-            href="#"
           >
             
                     
-            <i
-              class="fd-nested-list__icon sap-icon--calendar"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <div
-            class="fd-nested-list__content has-child"
-          >
-            
-                    
-            <a
-              class="fd-nested-list__link"
-              href="#"
+            <div
+              class="fd-nested-list__link-container"
             >
               
                         
               <i
-                class="fd-nested-list__icon sap-icon--employee"
+                class="fd-nested-list__icon sap-icon--calendar"
                 role="presentation"
               />
               
@@ -127,36 +773,23 @@ exports[`Storyshots Deprecated/Components/Side Navigation Complex (compact) 1`] 
                 Level 1 Item
               </span>
               
-                    
-            </a>
-            
-                    
-            <button
-              aria-controls="EX500L2"
-              aria-expanded="false"
-              aria-haspopup="true"
-              aria-label="Expand submenu"
-              class="fd-button fd-nested-list__button"
-              onclick="toggleNestedListSubmenu(event)"
-            >
-              
                         
               <i
-                class="sap-icon--navigation-right-arrow"
+                class="fd-nested-list__arrow sap-icon--navigation-right-arrow"
                 role="presentation"
               />
               
                     
-            </button>
+            </div>
             
                 
-          </div>
+          </button>
           
+
                 
           <ul
             aria-hidden="true"
-            class="fd-nested-list fd-nested-list--text-only level-2"
-            id="EX500L2"
+            class="fd-nested-list level-2"
           >
             
                     
@@ -171,11 +804,19 @@ exports[`Storyshots Deprecated/Components/Side Navigation Complex (compact) 1`] 
               >
                 
                             
-                <span
-                  class="fd-nested-list__title"
+                <div
+                  class="fd-nested-list__link-container"
                 >
-                  Level 2 Item
-                </span>
+                  
+                                
+                  <span
+                    class="fd-nested-list__title"
+                  >
+                    Level 2 Item
+                  </span>
+                  
+                            
+                </div>
                 
                         
               </a>
@@ -195,11 +836,19 @@ exports[`Storyshots Deprecated/Components/Side Navigation Complex (compact) 1`] 
               >
                 
                             
-                <span
-                  class="fd-nested-list__title"
+                <div
+                  class="fd-nested-list__link-container"
                 >
-                  Level 2 Item
-                </span>
+                  
+                                
+                  <span
+                    class="fd-nested-list__title"
+                  >
+                    Level 2 Item
+                  </span>
+                  
+                            
+                </div>
                 
                         
               </a>
@@ -219,11 +868,19 @@ exports[`Storyshots Deprecated/Components/Side Navigation Complex (compact) 1`] 
               >
                 
                             
-                <span
-                  class="fd-nested-list__title"
+                <div
+                  class="fd-nested-list__link-container"
                 >
-                  Level 2 Item
-                </span>
+                  
+                                
+                  <span
+                    class="fd-nested-list__title"
+                  >
+                    Level 2 Item
+                  </span>
+                  
+                            
+                </div>
                 
                         
               </a>
@@ -249,90 +906,25 @@ exports[`Storyshots Deprecated/Components/Side Navigation Complex (compact) 1`] 
           >
             
                     
-            <i
-              class="fd-nested-list__icon sap-icon--activities"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
+            <div
+              class="fd-nested-list__link-container"
             >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-        
-      </ul>
-      
-        
-      <div
-        class="fd-side-nav__group-header"
-        id="EX500H2"
-      >
-        
-                Group Header 2
-        
-      </div>
-      
-        
-      <ul
-        aria-labelledby="EX500H2"
-        class="fd-nested-list fd-nested-list--compact"
-      >
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--activities"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
                     
-            <i
-              class="fd-nested-list__icon sap-icon--bar-chart"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
+            </div>
             
                 
           </a>
@@ -355,7 +947,7 @@ exports[`Storyshots Deprecated/Components/Side Navigation Complex (compact) 1`] 
         
       <ul
         aria-label="Utility Menu"
-        class="fd-nested-list fd-nested-list--compact"
+        class="fd-nested-list fd-nested-list--compact level-1"
       >
         
             
@@ -370,17 +962,25 @@ exports[`Storyshots Deprecated/Components/Side Navigation Complex (compact) 1`] 
           >
             
                     
-            <i
-              class="fd-nested-list__icon sap-icon--compare"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
+            <div
+              class="fd-nested-list__link-container"
             >
-              Level 1 Item
-            </span>
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--compare"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
             
                 
           </a>
@@ -400,17 +1000,25 @@ exports[`Storyshots Deprecated/Components/Side Navigation Complex (compact) 1`] 
           >
             
                     
-            <i
-              class="fd-nested-list__icon sap-icon--chain-link"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
+            <div
+              class="fd-nested-list__link-container"
             >
-              Level 1 Item
-            </span>
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--chain-link"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
             
                 
           </a>
@@ -431,112 +1039,73 @@ exports[`Storyshots Deprecated/Components/Side Navigation Complex (compact) 1`] 
 </div>
 `;
 
-exports[`Storyshots Deprecated/Components/Side Navigation Complex 1`] = `
+exports[`Storyshots Components/Side Navigation Cosy Narrow Popover 1`] = `
 <div
   dir="ltr"
 >
   <div
-    class="fd-side-nav"
+    style="height: 500px;"
   >
     
-    
-    <a
-      class="fd-side-nav__skip-link"
-      href="#content"
-    >
-      Skip navigation
-    </a>
-    
-    
+
     <div
-      class="fd-side-nav__group-header"
-      id="EX400H1"
+      class="fd-popover"
     >
       
-        Group Header 1
     
-    </div>
-    
-    
-    <nav
-      aria-label="Main Menu"
-      class="fd-side-nav__main-navigation"
-    >
-      
+      <div
+        class="fd-popover__control"
+      >
         
-      <ul
-        aria-labelledby="EX400H1"
-        class="fd-nested-list "
+    
+      </div>
+      
+
+    
+      <nav
+        "=""
+        class="fd-side-nav__popover-body fd-popover__body fd-popover__body--no-arrow"
       >
         
             
-        <li
-          class="fd-nested-list__item"
+        <ul
+          class="fd-nested-list level-2"
         >
           
                 
-          <a
-            class="fd-nested-list__link"
-            href="#"
+          <li
+            class="fd-nested-list__item fd-nested-list__item--header"
           >
             
                     
-            <i
-              class="fd-nested-list__icon sap-icon--home"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
+            <h3
+              class="fd-nested-list__link"
             >
-              Level 1 Item
-            </span>
-            
+              
+                        
+              <div
+                class="fd-nested-list__link-container"
+              >
                 
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
+                            
+                <span
+                  class="fd-nested-list__title"
+                >
+                  Sales
+                </span>
                 
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
+                        
+              </div>
+              
                     
-            <i
-              class="fd-nested-list__icon sap-icon--calendar"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
+            </h3>
             
                 
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
+          </li>
           
                 
-          <div
-            class="fd-nested-list__content is-selected has-child"
+          <li
+            class="fd-nested-list__item"
           >
             
                     
@@ -546,59 +1115,184 @@ exports[`Storyshots Deprecated/Components/Side Navigation Complex 1`] = `
             >
               
                         
-              <i
-                class="fd-nested-list__icon sap-icon--employee"
-                role="presentation"
-              />
-              
-                        
-              <span
-                class="fd-nested-list__title"
+              <div
+                class="fd-nested-list__link-container"
               >
-                Level 1 Item
-              </span>
+                
+                            
+                <span
+                  class="fd-nested-list__title"
+                >
+                  Level 2 Item
+                </span>
+                
+                        
+              </div>
               
                     
             </a>
             
+                
+          </li>
+          
+                
+          <li
+            class="fd-nested-list__item"
+          >
+            
                     
             <button
-              aria-controls="EX400L2"
-              aria-expanded="false"
-              aria-haspopup="true"
-              aria-label="Expand submenu"
-              class="fd-button fd-nested-list__button"
-              onclick="toggleNestedListSubmenu(event)"
+              aria-expanded="true"
+              aria-label="Expand Level 3"
+              class="fd-nested-list__link is-selected"
             >
               
                         
-              <i
-                class="sap-icon--navigation-right-arrow"
-                role="presentation"
-              />
+              <div
+                class="fd-nested-list__link-container"
+              >
+                
+                            
+                <span
+                  class="fd-nested-list__title"
+                >
+                  Level 2 Item
+                </span>
+                
+                            
+                <i
+                  class="fd-nested-list__arrow sap-icon--navigation-down-arrow"
+                  role="presentation"
+                />
+                
+                        
+              </div>
               
                     
             </button>
             
+                    
+            <ul
+              aria-hidden="false"
+              class="fd-nested-list level-3"
+            >
+              
+                            
+              <li
+                class="fd-nested-list__item"
+              >
                 
-          </div>
+                                
+                <a
+                  class="fd-nested-list__link"
+                  href="#"
+                >
+                  
+                                    
+                  <div
+                    class="fd-nested-list__link-container"
+                  >
+                    
+                                        
+                    <span
+                      class="fd-nested-list__title"
+                    >
+                      Level 3 Item
+                    </span>
+                    
+                                    
+                  </div>
+                  
+                                
+                </a>
+                
+                            
+              </li>
+              
+                            
+              <li
+                class="fd-nested-list__item"
+              >
+                
+                                
+                <a
+                  class="fd-nested-list__link"
+                  href="#"
+                >
+                  
+                                    
+                  <div
+                    class="fd-nested-list__link-container"
+                  >
+                    
+                                        
+                    <span
+                      class="fd-nested-list__title"
+                    >
+                      Level 3 Item
+                    </span>
+                    
+                                    
+                  </div>
+                  
+                                
+                </a>
+                
+                            
+              </li>
+              
+                            
+              <li
+                class="fd-nested-list__item"
+              >
+                
+                                
+                <a
+                  class="fd-nested-list__link"
+                  href="#"
+                >
+                  
+                                    
+                  <div
+                    class="fd-nested-list__link-container"
+                  >
+                    
+                                        
+                    <span
+                      class="fd-nested-list__title"
+                    >
+                      Level 3 Item
+                    </span>
+                    
+                                    
+                  </div>
+                  
+                                
+                </a>
+                
+                            
+              </li>
+              
+                        
+            </ul>
+            
+                
+          </li>
           
                 
-          <ul
-            aria-hidden="true"
-            class="fd-nested-list fd-nested-list--text-only level-2"
-            id="EX400L2"
+          <li
+            class="fd-nested-list__item"
           >
             
                     
-            <li
-              class="fd-nested-list__item"
+            <a
+              class="fd-nested-list__link"
+              href="#"
             >
               
                         
-              <a
-                class="fd-nested-list__link"
-                href="#"
+              <div
+                class="fd-nested-list__link-container"
               >
                 
                             
@@ -609,20 +1303,28 @@ exports[`Storyshots Deprecated/Components/Side Navigation Complex 1`] = `
                 </span>
                 
                         
-              </a>
+              </div>
               
                     
-            </li>
+            </a>
+            
+                
+          </li>
+          
+                
+          <li
+            class="fd-nested-list__item"
+          >
             
                     
-            <li
-              class="fd-nested-list__item"
+            <a
+              class="fd-nested-list__link"
+              href="#"
             >
               
                         
-              <a
-                class="fd-nested-list__link is-selected"
-                href="#"
+              <div
+                class="fd-nested-list__link-container"
               >
                 
                             
@@ -633,227 +1335,22 @@ exports[`Storyshots Deprecated/Components/Side Navigation Complex 1`] = `
                 </span>
                 
                         
-              </a>
+              </div>
               
                     
-            </li>
-            
-                    
-            <li
-              class="fd-nested-list__item"
-            >
-              
-                        
-              <a
-                class="fd-nested-list__link"
-                href="#"
-              >
-                
-                            
-                <span
-                  class="fd-nested-list__title"
-                >
-                  Level 2 Item
-                </span>
-                
-                        
-              </a>
-              
-                    
-            </li>
+            </a>
             
                 
-          </ul>
+          </li>
           
             
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <i
-              class="fd-nested-list__icon sap-icon--activities"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
+        </ul>
         
         
-      </ul>
-      
-        
-      <div
-        class="fd-side-nav__group-header"
-        id="EX400H2"
-      >
-        
-            Group Header 2
-        
-      </div>
-      
-        
-      <ul
-        aria-labelledby="EX400H2"
-        class="fd-nested-list"
-      >
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <i
-              class="fd-nested-list__icon sap-icon--bar-chart"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-        
-      </ul>
+      </nav>
       
     
-    </nav>
-    
-    
-    <nav
-      aria-label="Utility Menu"
-      class="fd-side-nav__utility"
-    >
-      
-        
-      <ul
-        aria-label="Utility Menu"
-        class="fd-nested-list"
-      >
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <i
-              class="fd-nested-list__icon sap-icon--compare"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <i
-              class="fd-nested-list__icon sap-icon--chain-link"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-        
-      </ul>
-      
-    
-    </nav>
+    </div>
     
 
   </div>
@@ -862,21 +1359,333 @@ exports[`Storyshots Deprecated/Components/Side Navigation Complex 1`] = `
 </div>
 `;
 
-exports[`Storyshots Deprecated/Components/Side Navigation Condensed (compact) 1`] = `
+exports[`Storyshots Components/Side Navigation Cosy Narrow Popover with Dynamic Width 1`] = `
+<div
+  dir="ltr"
+>
+  <div
+    style="height: 500px;"
+  >
+    
+
+    <div
+      class="fd-popover"
+    >
+      
+    
+      <div
+        class="fd-popover__control"
+      >
+        
+    
+      </div>
+      
+
+    
+      <nav
+        "=""
+        class="fd-side-nav__popover-body fd-side-nav__popover-body--dynamic-width fd-popover__body fd-popover__body--no-arrow"
+      >
+        
+            
+        <ul
+          class="fd-nested-list level-2"
+        >
+          
+                
+          <li
+            class="fd-nested-list__item fd-nested-list__item--header"
+          >
+            
+                    
+            <h3
+              class="fd-nested-list__link"
+            >
+              
+                        
+              <div
+                class="fd-nested-list__link-container"
+              >
+                
+                            
+                <span
+                  class="fd-nested-list__title"
+                >
+                  Sales
+                </span>
+                
+                        
+              </div>
+              
+                    
+            </h3>
+            
+                
+          </li>
+          
+                
+          <li
+            class="fd-nested-list__item"
+          >
+            
+                    
+            <a
+              class="fd-nested-list__link"
+              href="#"
+            >
+              
+                        
+              <div
+                class="fd-nested-list__link-container"
+              >
+                
+                            
+                <span
+                  class="fd-nested-list__title"
+                >
+                  Level 2 Item
+                </span>
+                
+                        
+              </div>
+              
+                    
+            </a>
+            
+                
+          </li>
+          
+                
+          <li
+            class="fd-nested-list__item"
+          >
+            
+                    
+            <button
+              aria-expanded="true"
+              aria-label="Expand Level 3"
+              class="fd-nested-list__link is-selected"
+            >
+              
+                        
+              <div
+                class="fd-nested-list__link-container"
+              >
+                
+                            
+                <span
+                  class="fd-nested-list__title"
+                >
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit
+                </span>
+                
+                            
+                <i
+                  class="fd-nested-list__arrow sap-icon--navigation-down-arrow"
+                  role="presentation"
+                />
+                
+                        
+              </div>
+              
+                    
+            </button>
+            
+                    
+            <ul
+              aria-hidden="false"
+              class="fd-nested-list level-3"
+            >
+              
+                            
+              <li
+                class="fd-nested-list__item"
+              >
+                
+                                
+                <a
+                  class="fd-nested-list__link"
+                  href="#"
+                >
+                  
+                                    
+                  <div
+                    class="fd-nested-list__link-container"
+                  >
+                    
+                                        
+                    <span
+                      class="fd-nested-list__title"
+                    >
+                      Level 3 Item
+                    </span>
+                    
+                                    
+                  </div>
+                  
+                                
+                </a>
+                
+                            
+              </li>
+              
+                            
+              <li
+                class="fd-nested-list__item"
+              >
+                
+                                
+                <a
+                  class="fd-nested-list__link"
+                  href="#"
+                >
+                  
+                                    
+                  <div
+                    class="fd-nested-list__link-container"
+                  >
+                    
+                                        
+                    <span
+                      class="fd-nested-list__title"
+                    >
+                      Level 3 Item
+                    </span>
+                    
+                                    
+                  </div>
+                  
+                                
+                </a>
+                
+                            
+              </li>
+              
+                            
+              <li
+                class="fd-nested-list__item"
+              >
+                
+                                
+                <a
+                  class="fd-nested-list__link"
+                  href="#"
+                >
+                  
+                                    
+                  <div
+                    class="fd-nested-list__link-container"
+                  >
+                    
+                                        
+                    <span
+                      class="fd-nested-list__title"
+                    >
+                      Level 3 Item
+                    </span>
+                    
+                                    
+                  </div>
+                  
+                                
+                </a>
+                
+                            
+              </li>
+              
+                        
+            </ul>
+            
+                
+          </li>
+          
+                
+          <li
+            class="fd-nested-list__item"
+          >
+            
+                    
+            <a
+              class="fd-nested-list__link"
+              href="#"
+            >
+              
+                        
+              <div
+                class="fd-nested-list__link-container"
+              >
+                
+                            
+                <span
+                  class="fd-nested-list__title"
+                >
+                  Level 2 Item
+                </span>
+                
+                        
+              </div>
+              
+                    
+            </a>
+            
+                
+          </li>
+          
+                
+          <li
+            class="fd-nested-list__item"
+          >
+            
+                    
+            <a
+              class="fd-nested-list__link"
+              href="#"
+            >
+              
+                        
+              <div
+                class="fd-nested-list__link-container"
+              >
+                
+                            
+                <span
+                  class="fd-nested-list__title"
+                >
+                  Level 2 Item
+                </span>
+                
+                        
+              </div>
+              
+                    
+            </a>
+            
+                
+          </li>
+          
+            
+        </ul>
+        
+        
+      </nav>
+      
+    
+    </div>
+    
+
+  </div>
+  
+
+</div>
+`;
+
+exports[`Storyshots Components/Side Navigation Cosy Narrow, Levels 2 and 3 in Popover Hidden 1`] = `
 <div
   dir="ltr"
 >
   <nav
-    class="fd-side-nav fd-side-nav--condensed"
+    class="fd-side-nav fd-side-nav--narrow"
   >
-    
-    
-    <a
-      class="fd-side-nav__skip-link"
-      href="#content"
-    >
-      Skip navigation
-    </a>
     
     
     <div
@@ -885,7 +1694,7 @@ exports[`Storyshots Deprecated/Components/Side Navigation Condensed (compact) 1`
       
         
       <ul
-        class="fd-nested-list fd-nested-list--compact"
+        class="fd-nested-list level-1"
       >
         
             
@@ -895,81 +1704,19 @@ exports[`Storyshots Deprecated/Components/Side Navigation Condensed (compact) 1`
           
                 
           <a
+            aria-label="Level 1 Item"
             class="fd-nested-list__link"
             href="#"
           >
             
                     
-            <i
-              class="fd-nested-list__icon sap-icon--home"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <i
-              class="fd-nested-list__icon sap-icon--calendar"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <div
-            class="fd-nested-list__content is-selected has-child"
-          >
-            
-                    
-            <button
-              aria-controls="EX600L2"
-              aria-expanded="false"
-              aria-haspopup="true"
-              aria-label="Expand submenu"
-              class="fd-nested-list__link"
+            <div
+              class="fd-nested-list__link-container"
             >
               
                         
               <i
-                class="fd-nested-list__icon sap-icon--employee"
+                class="fd-nested-list__icon sap-icon--home"
                 role="presentation"
               />
               
@@ -981,37 +1728,7 @@ exports[`Storyshots Deprecated/Components/Side Navigation Condensed (compact) 1`
               </span>
               
                     
-            </button>
-            
-                
-          </div>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <i
-              class="fd-nested-list__icon sap-icon--activities"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
+            </div>
             
                 
           </a>
@@ -1026,22 +1743,154 @@ exports[`Storyshots Deprecated/Components/Side Navigation Condensed (compact) 1`
           
                 
           <a
+            aria-label="Level 1 Item"
             class="fd-nested-list__link"
             href="#"
           >
             
                     
-            <i
-              class="fd-nested-list__icon sap-icon--bar-chart"
-              role="presentation"
-            />
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--map"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item fd-popover"
+        >
+          
+                
+          <button
+            aria-expanded="false"
+            aria-label="Expand Level 2"
+            class="fd-nested-list__link fd-popover__control is-selected"
+          >
             
                     
-            <span
-              class="fd-nested-list__title"
+            <div
+              class="fd-nested-list__link-container"
             >
-              Level 1 Item
-            </span>
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--calendar"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                        
+              <i
+                class="fd-nested-list__arrow sap-icon--navigation-right-arrow"
+                role="presentation"
+              />
+              
+                    
+            </div>
+            
+                
+          </button>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            aria-label="Level 1 Item"
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--activities"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            aria-label="Level 1 Item"
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--bar-chart"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
             
                 
           </a>
@@ -1062,8 +1911,7 @@ exports[`Storyshots Deprecated/Components/Side Navigation Condensed (compact) 1`
       
         
       <ul
-        aria-label="Utility Menu"
-        class="fd-nested-list fd-nested-list--compact"
+        class="fd-nested-list level-1"
       >
         
             
@@ -1073,180 +1921,19 @@ exports[`Storyshots Deprecated/Components/Side Navigation Condensed (compact) 1`
           
                 
           <a
+            aria-label="Level 1 Item"
             class="fd-nested-list__link"
             href="#"
           >
             
                     
-            <i
-              class="fd-nested-list__icon sap-icon--compare"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <i
-              class="fd-nested-list__icon sap-icon--chain-link"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-        
-      </ul>
-      
-    
-    </div>
-    
-
-  </nav>
-  
-
-</div>
-`;
-
-exports[`Storyshots Deprecated/Components/Side Navigation Condensed 1`] = `
-<div
-  dir="ltr"
->
-  <nav
-    class="fd-side-nav fd-side-nav--condensed"
-  >
-    
-    
-    <a
-      class="fd-side-nav__skip-link"
-      href="#content"
-    >
-      Skip navigation
-    </a>
-    
-    
-    <div
-      class="fd-side-nav__main-navigation"
-    >
-      
-        
-      <ul
-        class="fd-nested-list"
-      >
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <i
-              aria-label="Level 1 Item"
-              class="fd-nested-list__icon sap-icon--home"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <i
-              aria-label="Level 1 Item"
-              class="fd-nested-list__icon sap-icon--calendar"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <div
-            class="fd-nested-list__content is-selected has-child"
-          >
-            
-                    
-            <button
-              aria-controls="EX500L2"
-              aria-expanded="false"
-              aria-haspopup="true"
-              aria-label="Expand submenu"
-              class="fd-nested-list__link"
+            <div
+              class="fd-nested-list__link-container"
             >
               
                         
               <i
-                class="fd-nested-list__icon sap-icon--employee"
+                class="fd-nested-list__icon sap-icon--compare"
                 role="presentation"
               />
               
@@ -1258,37 +1945,7 @@ exports[`Storyshots Deprecated/Components/Side Navigation Condensed 1`] = `
               </span>
               
                     
-            </button>
-            
-                
-          </div>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <i
-              aria-label="Level 1 Item"
-              class="fd-nested-list__icon sap-icon--activities"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
+            </div>
             
                 
           </a>
@@ -1303,99 +1960,31 @@ exports[`Storyshots Deprecated/Components/Side Navigation Condensed 1`] = `
           
                 
           <a
+            aria-label="Level 1 Item"
             class="fd-nested-list__link"
             href="#"
           >
             
                     
-            <i
-              aria-label="Level 1 Item"
-              class="fd-nested-list__icon sap-icon--bar-chart"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
+            <div
+              class="fd-nested-list__link-container"
             >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-        
-      </ul>
-      
-    
-    </div>
-    
-    
-    <div
-      aria-label="Utility Menu"
-      class="fd-side-nav__utility"
-    >
-      
-        
-      <ul
-        class="fd-nested-list"
-      >
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--chain-link"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
                     
-            <i
-              aria-label="Level 1 Item"
-              class="fd-nested-list__icon sap-icon--compare"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <i
-              aria-label="Level 1 Item"
-              class="fd-nested-list__icon sap-icon--chain-link"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
+            </div>
             
                 
           </a>
@@ -1416,21 +2005,13 @@ exports[`Storyshots Deprecated/Components/Side Navigation Condensed 1`] = `
 </div>
 `;
 
-exports[`Storyshots Deprecated/Components/Side Navigation Default 1`] = `
+exports[`Storyshots Components/Side Navigation Cosy Wide Text Only, 1 Level 1`] = `
 <div
   dir="ltr"
 >
   <div
     class="fd-side-nav"
   >
-    
-    
-    <a
-      class="fd-side-nav__skip-link"
-      href="#content"
-    >
-      Skip navigation
-    </a>
     
     
     <nav
@@ -1441,7 +2022,7 @@ exports[`Storyshots Deprecated/Components/Side Navigation Default 1`] = `
         
       <ul
         aria-label="Main Menu"
-        class="fd-nested-list fd-nested-list--text-only"
+        class="fd-nested-list fd-nested-list--text-only level-1"
       >
         
             
@@ -1452,14 +2033,23 @@ exports[`Storyshots Deprecated/Components/Side Navigation Default 1`] = `
                 
           <a
             class="fd-nested-list__link"
+            href="#"
           >
             
                     
-            <span
-              class="fd-nested-list__title"
+            <div
+              class="fd-nested-list__link-container"
             >
-              Level 1 Item
-            </span>
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
             
                 
           </a>
@@ -1475,14 +2065,23 @@ exports[`Storyshots Deprecated/Components/Side Navigation Default 1`] = `
                 
           <a
             class="fd-nested-list__link is-selected"
+            href="#"
           >
             
                     
-            <span
-              class="fd-nested-list__title"
+            <div
+              class="fd-nested-list__link-container"
             >
-              Level 1 Item
-            </span>
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
             
                 
           </a>
@@ -1498,14 +2097,23 @@ exports[`Storyshots Deprecated/Components/Side Navigation Default 1`] = `
                 
           <a
             class="fd-nested-list__link"
+            href="#"
           >
             
                     
-            <span
-              class="fd-nested-list__title"
+            <div
+              class="fd-nested-list__link-container"
             >
-              Level 1 Item
-            </span>
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
             
                 
           </a>
@@ -1521,14 +2129,23 @@ exports[`Storyshots Deprecated/Components/Side Navigation Default 1`] = `
                 
           <a
             class="fd-nested-list__link"
+            href="#"
           >
             
                     
-            <span
-              class="fd-nested-list__title"
+            <div
+              class="fd-nested-list__link-container"
             >
-              Level 1 Item
-            </span>
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
             
                 
           </a>
@@ -1536,6 +2153,39 @@ exports[`Storyshots Deprecated/Components/Side Navigation Default 1`] = `
             
         </li>
         
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
         
       </ul>
       
@@ -1551,7 +2201,7 @@ exports[`Storyshots Deprecated/Components/Side Navigation Default 1`] = `
         
       <ul
         aria-label="Utility Menu"
-        class="fd-nested-list fd-nested-list--text-only"
+        class="fd-nested-list fd-nested-list--text-only level-1"
       >
         
             
@@ -1562,14 +2212,23 @@ exports[`Storyshots Deprecated/Components/Side Navigation Default 1`] = `
                 
           <a
             class="fd-nested-list__link"
+            href="#"
           >
             
                     
-            <span
-              class="fd-nested-list__title"
+            <div
+              class="fd-nested-list__link-container"
             >
-              Level 1 Item
-            </span>
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
             
                 
           </a>
@@ -1585,14 +2244,23 @@ exports[`Storyshots Deprecated/Components/Side Navigation Default 1`] = `
                 
           <a
             class="fd-nested-list__link"
+            href="#"
           >
             
                     
-            <span
-              class="fd-nested-list__title"
+            <div
+              class="fd-nested-list__link-container"
             >
-              Level 1 Item
-            </span>
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
             
                 
           </a>
@@ -1613,21 +2281,13 @@ exports[`Storyshots Deprecated/Components/Side Navigation Default 1`] = `
 </div>
 `;
 
-exports[`Storyshots Deprecated/Components/Side Navigation Group 1`] = `
+exports[`Storyshots Components/Side Navigation Cosy Wide Text Only, 3 Levels 1`] = `
 <div
   dir="ltr"
 >
   <div
     class="fd-side-nav"
   >
-    
-    
-    <a
-      class="fd-side-nav__skip-link"
-      href="#content"
-    >
-      Skip navigation
-    </a>
     
     
     <nav
@@ -1637,7 +2297,7 @@ exports[`Storyshots Deprecated/Components/Side Navigation Group 1`] = `
       
         
       <ul
-        class="fd-nested-list fd-nested-list--text-only"
+        class="fd-nested-list fd-nested-list--text-only level-1"
       >
         
             
@@ -1652,11 +2312,19 @@ exports[`Storyshots Deprecated/Components/Side Navigation Group 1`] = `
           >
             
                     
-            <span
-              class="fd-nested-list__title"
+            <div
+              class="fd-nested-list__link-container"
             >
-              Level 1 Item
-            </span>
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
             
                 
           </a>
@@ -1671,16 +2339,24 @@ exports[`Storyshots Deprecated/Components/Side Navigation Group 1`] = `
           
                 
           <a
-            class="fd-nested-list__link is-selected"
+            class="fd-nested-list__link"
             href="#"
           >
             
                     
-            <span
-              class="fd-nested-list__title"
+            <div
+              class="fd-nested-list__link-container"
             >
-              Level 1 Item
-            </span>
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
             
                 
           </a>
@@ -1694,14 +2370,15 @@ exports[`Storyshots Deprecated/Components/Side Navigation Group 1`] = `
         >
           
                 
-          <div
-            class="fd-nested-list__content has-child"
+          <button
+            aria-expanded="true"
+            aria-label="Expand Level 2"
+            class="fd-nested-list__link"
           >
             
                     
-            <a
-              class="fd-nested-list__link"
-              href="#"
+            <div
+              class="fd-nested-list__link-container"
             >
               
                         
@@ -1711,36 +2388,22 @@ exports[`Storyshots Deprecated/Components/Side Navigation Group 1`] = `
                 Level 1 Item
               </span>
               
-                    
-            </a>
-            
-                    
-            <button
-              aria-controls="EX100L2"
-              aria-expanded="false"
-              aria-haspopup="true"
-              aria-label="Expand submenu"
-              class="fd-button fd-nested-list__button"
-              onclick="toggleNestedListSubmenu(event)"
-            >
-              
                         
               <i
-                class="sap-icon--navigation-right-arrow"
+                class="fd-nested-list__arrow sap-icon--navigation-down-arrow"
                 role="presentation"
               />
               
                     
-            </button>
+            </div>
             
                 
-          </div>
+          </button>
           
                 
           <ul
-            aria-hidden="true"
+            aria-hidden="false"
             class="fd-nested-list level-2"
-            id="EX100L2"
           >
             
                     
@@ -1749,1075 +2412,40 @@ exports[`Storyshots Deprecated/Components/Side Navigation Group 1`] = `
             >
               
                         
-              <a
-                class="fd-nested-list__link"
-                href="#"
+              <button
+                aria-expanded="true"
+                aria-label="Expand Level 3"
+                class="fd-nested-list__link is-selected"
               >
                 
                             
-                <span
-                  class="fd-nested-list__title"
-                >
-                  Level 2 Item
-                </span>
-                
-                        
-              </a>
-              
-                    
-            </li>
-            
-                    
-            <li
-              class="fd-nested-list__item"
-            >
-              
-                        
-              <a
-                class="fd-nested-list__link"
-                href="#"
-              >
-                
-                            
-                <span
-                  class="fd-nested-list__title"
-                >
-                  Level 2 Item
-                </span>
-                
-                        
-              </a>
-              
-                    
-            </li>
-            
-                    
-            <li
-              class="fd-nested-list__item"
-            >
-              
-                        
-              <a
-                class="fd-nested-list__link"
-                href="#"
-              >
-                
-                            
-                <span
-                  class="fd-nested-list__title"
-                >
-                  Level 2 Item
-                </span>
-                
-                        
-              </a>
-              
-                    
-            </li>
-            
-                
-          </ul>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-        
-      </ul>
-      
-    
-    </nav>
-    
-    
-    <nav
-      aria-label="Utility Menu"
-      class="fd-side-nav__utility"
-    >
-      
-        
-      <ul
-        aria-label="Utility Menu"
-        class="fd-nested-list fd-nested-list--text-only"
-      >
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-        
-      </ul>
-      
-    
-    </nav>
-    
-
-  </div>
-  
-
-</div>
-`;
-
-exports[`Storyshots Deprecated/Components/Side Navigation Icons 1`] = `
-<div
-  dir="ltr"
->
-  <div
-    class="fd-side-nav"
-  >
-    
-    
-    <a
-      class="fd-side-nav__skip-link"
-      href="#content"
-    >
-      Skip navigation
-    </a>
-    
-    
-    <nav
-      aria-label="Main Menu"
-      class="fd-side-nav__main-navigation"
-    >
-      
-        
-      <ul
-        class="fd-nested-list"
-      >
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <i
-              class="fd-nested-list__icon sap-icon--home"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link is-selected"
-            href="#"
-          >
-            
-                    
-            <i
-              class="fd-nested-list__icon sap-icon--calendar"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <i
-              class="fd-nested-list__icon sap-icon--employee"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <i
-              class="fd-nested-list__icon sap-icon--activities"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-        
-      </ul>
-      
-    
-    </nav>
-    
-    
-    <nav
-      aria-label="Utility Menu"
-      class="fd-side-nav__utility"
-    >
-      
-        
-      <ul
-        class="fd-nested-list"
-      >
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <i
-              class="fd-nested-list__icon sap-icon--compare"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#"
-          >
-            
-                    
-            <i
-              class="fd-nested-list__icon sap-icon--chain-link"
-              role="presentation"
-            />
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 1 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-        
-      </ul>
-      
-    
-    </nav>
-    
-
-  </div>
-  
-
-</div>
-`;
-
-exports[`Storyshots Deprecated/Components/Side Navigation Nested List Popover 1`] = `
-<div
-  dir="ltr"
->
-  <div
-    class="fddocs-container"
-    style="margin-bottom: 200px;"
-  >
-    
-    
-    <div
-      class="fd-popover fd-popover--right"
-    >
-      
-        
-      <div
-        class="fd-popover__control"
-      >
-        
-            
-        <ul
-          class="fd-nested-list fd-nested-list--compact"
-        >
-          
-                
-          <li
-            class="fd-nested-list__item"
-          >
-            
-                    
-            <a
-              class="fd-nested-list__link"
-              href="#/"
-            >
-              
-                        
-              <i
-                class="fd-nested-list__icon sap-icon--home"
-                role="presentation"
-              />
-              
-                    
-            </a>
-            
-                
-          </li>
-          
-            
-        </ul>
-        
-        
-      </div>
-      
-        
-      <div
-        aria-hidden="false"
-        class="fd-popover__popper"
-        id="popoverA11"
-      >
-        
-            
-        <ul
-          class="fd-nested-list fd-nested-list--popover fd-nested-list--compact"
-        >
-          
-                
-          <li
-            class="fd-nested-list__group-header"
-          >
-            
-                    Group Header 1
-                
-          </li>
-          
-                
-          <li
-            class="fd-nested-list__item"
-          >
-            
-                    
-            <a
-              class="fd-nested-list__link"
-              href="#/"
-            >
-              
-                        
-              <i
-                class="fd-nested-list__icon sap-icon--home"
-                role="presentation"
-              />
-              
-                        
-              <span
-                class="fd-nested-list__title"
-              >
-                Level 1 Item
-              </span>
-              
-                    
-            </a>
-            
-                
-          </li>
-          
-                
-          <li
-            class="fd-nested-list__item"
-          >
-            
-                    
-            <a
-              class="fd-nested-list__link is-selected"
-              href="#/"
-            >
-              
-                        
-              <i
-                class="fd-nested-list__icon sap-icon--calendar"
-                role="presentation"
-              />
-              
-                        
-              <span
-                class="fd-nested-list__title"
-              >
-                Level 1 Item
-              </span>
-              
-                    
-            </a>
-            
-                
-          </li>
-          
-                
-          <li
-            class="fd-nested-list__item"
-          >
-            
-                    
-            <a
-              class="fd-nested-list__link"
-              href="#/"
-            >
-              
-                        
-              <i
-                class="fd-nested-list__icon sap-icon--activities"
-                role="presentation"
-              />
-              
-                        
-              <span
-                class="fd-nested-list__title"
-              >
-                Level 1 Item
-              </span>
-              
-                    
-            </a>
-            
-                
-          </li>
-          
-            
-        </ul>
-        
-        
-      </div>
-      
-    
-    </div>
-    
-    
-    <div
-      class="fd-popover fd-popover--right"
-      style="margin-bottom: 200px"
-    >
-      
-        
-      <div
-        class="fd-popover__control"
-      >
-        
-            
-        <ul
-          class="fd-nested-list fd-nested-list--compact"
-        >
-          
-                
-          <li
-            class="fd-nested-list__item"
-          >
-            
-                    
-            <a
-              class="fd-nested-list__link"
-              href="#/"
-            >
-              
-                        
-              <i
-                class="fd-nested-list__icon sap-icon--home"
-                role="presentation"
-              />
-              
-                    
-            </a>
-            
-                
-          </li>
-          
-            
-        </ul>
-        
-        
-      </div>
-      
-        
-      <div
-        aria-hidden="false"
-        class="fd-popover__popper"
-        id="popoverA12"
-      >
-        
-            
-        <ul
-          class="fd-nested-list fd-nested-list--popover fd-nested-list--compact"
-        >
-          
-                
-          <li
-            class="fd-nested-list__item fd-nested-list__item--popover"
-          >
-            
-                    
-            <a
-              class="fd-nested-list__link"
-              href="#/"
-            >
-              
-                        
-              <i
-                class="fd-nested-list__icon sap-icon--home"
-                role="presentation"
-              />
-              
-                        
-              <span
-                class="fd-nested-list__title"
-              >
-                Level 1 Item
-              </span>
-              
-                    
-            </a>
-            
-                
-          </li>
-          
-                
-          <li
-            class="fd-nested-list__item fd-nested-list__item--popover"
-          >
-            
-                    
-            <a
-              class="fd-nested-list__link is-selected"
-              href="#/"
-            >
-              
-                        
-              <i
-                class="fd-nested-list__icon sap-icon--calendar"
-                role="presentation"
-              />
-              
-                        
-              <span
-                class="fd-nested-list__title"
-              >
-                Level 1 Item
-              </span>
-              
-                    
-            </a>
-            
-                
-          </li>
-          
-                
-          <li
-            class="fd-nested-list__item fd-nested-list__item--popover"
-          >
-            
-                    
-            <a
-              class="fd-nested-list__link"
-              href="#/"
-            >
-              
-                        
-              <i
-                class="fd-nested-list__icon sap-icon--activities"
-                role="presentation"
-              />
-              
-                        
-              <span
-                class="fd-nested-list__title"
-              >
-                Level 1 Item
-              </span>
-              
-                    
-            </a>
-            
-                
-          </li>
-          
-            
-        </ul>
-        
-        
-      </div>
-      
-    
-    </div>
-    
-
-  </div>
-  
-
-</div>
-`;
-
-exports[`Storyshots Deprecated/Components/Side Navigation Nested List With Group Headers 1`] = `
-<div
-  dir="ltr"
->
-  <ul
-    class="fd-nested-list"
-  >
-    
-    
-    <li
-      class="fd-nested-list__group-header"
-    >
-      
-        Group Header 1
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <a
-        class="fd-nested-list__link"
-        href="#/"
-      >
-        
-            
-        <i
-          class="fd-nested-list__icon sap-icon--home"
-          role="presentation"
-        />
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <a
-        class="fd-nested-list__link is-selected"
-        href="#/"
-      >
-        
-            
-        <i
-          class="fd-nested-list__icon sap-icon--calendar"
-          role="presentation"
-        />
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-	   
-      <div
-        class="fd-nested-list__content has-child"
-        tabindex="0"
-      >
-        
-			
-        <a
-          class="fd-nested-list__link"
-          href="#"
-          tabindex="-1"
-        >
-          
-				
-          <i
-            class="fd-nested-list__icon sap-icon--employee"
-            role="presentation"
-          />
-          
-				
-          <span
-            class="fd-nested-list__title"
-          >
-            Level 1 Item
-          </span>
-          
-			
-        </a>
-        
-            
-        <button
-          aria-controls="EX400L222"
-          aria-expanded="true"
-          aria-haspopup="true"
-          aria-label="Expand submenu"
-          class="fd-button fd-nested-list__button"
-        >
-          
-                
-          <i
-            class="sap-icon--navigation-right-arrow"
-            role="presentation"
-          />
-          
-            
-        </button>
-        
-		
-      </div>
-      
-        
-      <ul
-        aria-hidden="false"
-        class="fd-nested-list fd-nested-list--text-only level-2"
-        id="EX400L222"
-      >
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#/"
-          >
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 2 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-			   
-          <div
-            class="fd-nested-list__content has-child"
-            tabindex="0"
-          >
-            
-					
-            <a
-              class="fd-nested-list__link"
-              href="#"
-              tabindex="-1"
-            >
-              
-						
-              <span
-                class="fd-nested-list__title"
-              >
-                Level 2 Item
-              </span>
-              
-					
-            </a>
-            
-                    
-            <button
-              aria-controls="EX400L3"
-              aria-expanded="true"
-              aria-haspopup="true"
-              aria-label="Expand submenu"
-              class="fd-button fd-nested-list__button"
-            >
-              
-                        
-              <i
-                class="sap-icon--navigation-right-arrow"
-                role="presentation"
-              />
-              
-                    
-            </button>
-            
-				
-          </div>
-          
-                
-          <ul
-            aria-hidden="false"
-            class="fd-nested-list fd-nested-list--text-only level-3"
-            id="EX400L3"
-          >
-            
-                    
-            <li
-              class="fd-nested-list__item"
-            >
-              
-                        
-              <a
-                class="fd-nested-list__link"
-                href="#/"
-              >
-                
-                            
-                <span
-                  class="fd-nested-list__title"
-                >
-                  Level 3 Item
-                </span>
-                
-                        
-              </a>
-              
-                    
-            </li>
-            
-                    
-            <li
-              class="fd-nested-list__item"
-            >
-              
-					   
-              <div
-                class="fd-nested-list__content has-child"
-                tabindex="0"
-              >
-                
-							
-                <a
-                  class="fd-nested-list__link"
-                  href="#"
-                  tabindex="-1"
-                >
-                  
-								
-                  <span
-                    class="fd-nested-list__title"
-                  >
-                    Level 3 Item
-                  </span>
-                  
-							
-                </a>
-                
-                            
-                <button
-                  aria-controls="EX400L4"
-                  aria-expanded="true"
-                  aria-haspopup="true"
-                  aria-label="Expand submenu"
-                  class="fd-button fd-nested-list__button"
+                <div
+                  class="fd-nested-list__link-container"
                 >
                   
                                 
+                  <span
+                    class="fd-nested-list__title"
+                  >
+                    Level 2 Item
+                  </span>
+                  
+                                
                   <i
-                    class="sap-icon--navigation-right-arrow"
+                    class="fd-nested-list__arrow sap-icon--navigation-down-arrow"
                     role="presentation"
                   />
                   
                             
-                </button>
+                </div>
                 
-						
-              </div>
+                        
+              </button>
               
                         
               <ul
                 aria-hidden="false"
-                class="fd-nested-list fd-nested-list--text-only level-4"
-                id="EX400L4"
+                class="fd-nested-list level-3"
               >
                 
                             
@@ -2828,1826 +2456,26 @@ exports[`Storyshots Deprecated/Components/Side Navigation Nested List With Group
                                 
                   <a
                     class="fd-nested-list__link"
-                    href="#/"
+                    href="#"
                   >
                     
                                     
-                    <span
-                      class="fd-nested-list__title"
-                    >
-                      Level 4 Item
-                    </span>
-                    
-                                
-                  </a>
-                  
-                            
-                </li>
-                
-                            
-                <li
-                  class="fd-nested-list__item"
-                >
-                  
-                                
-                  <a
-                    class="fd-nested-list__link"
-                    href="#/"
-                  >
-                    
-                                    
-                    <span
-                      class="fd-nested-list__title"
-                    >
-                      Level 4 Item
-                    </span>
-                    
-                                
-                  </a>
-                  
-                            
-                </li>
-                
-                            
-                <li
-                  class="fd-nested-list__item"
-                >
-                  
-                                
-                  <a
-                    class="fd-nested-list__link"
-                    href="#/"
-                  >
-                    
-                                    
-                    <span
-                      class="fd-nested-list__title"
-                    >
-                      Level 4 Item
-                    </span>
-                    
-                                
-                  </a>
-                  
-                            
-                </li>
-                
-                        
-              </ul>
-              
-                    
-            </li>
-            
-                    
-            <li
-              class="fd-nested-list__item"
-            >
-              
-                        
-              <a
-                class="fd-nested-list__link"
-                href="#/"
-              >
-                
-                            
-                <span
-                  class="fd-nested-list__title"
-                >
-                  Level 3 Item
-                </span>
-                
-                        
-              </a>
-              
-                    
-            </li>
-            
-                
-          </ul>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#/"
-          >
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 2 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-        
-      </ul>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <a
-        class="fd-nested-list__link"
-        href="#/"
-      >
-        
-            
-        <i
-          class="fd-nested-list__icon sap-icon--activities"
-          role="presentation"
-        />
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__group-header"
-    >
-      
-        Group Header 2
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <a
-        class="fd-nested-list__link"
-        href="#/"
-      >
-        
-            
-        <i
-          class="fd-nested-list__icon sap-icon--bar-chart"
-          role="presentation"
-        />
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <a
-        class="fd-nested-list__link"
-        href="#/"
-      >
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-
-  </ul>
-  
-
-</div>
-`;
-
-exports[`Storyshots Deprecated/Components/Side Navigation Nested List With Group Headers Compact Mode 1`] = `
-<div
-  dir="ltr"
->
-  <ul
-    class="fd-nested-list fd-nested-list--compact"
-  >
-    
-    
-    <li
-      class="fd-nested-list__group-header"
-    >
-      
-        Group Header 1
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <a
-        class="fd-nested-list__link"
-        href="#/"
-      >
-        
-            
-        <i
-          class="fd-nested-list__icon sap-icon--home"
-          role="presentation"
-        />
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <a
-        class="fd-nested-list__link is-selected"
-        href="#/"
-      >
-        
-            
-        <i
-          class="fd-nested-list__icon sap-icon--calendar"
-          role="presentation"
-        />
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-	   
-      <div
-        class="fd-nested-list__content has-child"
-        tabindex="0"
-      >
-        
-			
-        <a
-          class="fd-nested-list__link"
-          href="#"
-          tabindex="-1"
-        >
-          
-            	
-          <i
-            class="fd-nested-list__icon sap-icon--employee"
-            role="presentation"
-          />
-          
-				
-          <span
-            class="fd-nested-list__title"
-          >
-            Level 1 Item
-          </span>
-          
-			
-        </a>
-        
-            
-        <button
-          aria-controls="EX500L2"
-          aria-expanded="true"
-          aria-haspopup="true"
-          aria-label="Expand submenu"
-          class="fd-button fd-nested-list__button"
-        >
-          
-                
-          <i
-            class="sap-icon--navigation-right-arrow"
-            role="presentation"
-          />
-          
-            
-        </button>
-        
-		
-      </div>
-      
-        
-      <ul
-        aria-hidden="false"
-        class="fd-nested-list fd-nested-list--text-only level-2"
-        id="EX500L2"
-      >
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#/"
-          >
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 2 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-			   
-          <div
-            class="fd-nested-list__content has-child"
-            tabindex="0"
-          >
-            
-					
-            <a
-              class="fd-nested-list__link"
-              href="#"
-              tabindex="-1"
-            >
-              
-						
-              <span
-                class="fd-nested-list__title"
-              >
-                Level 2 Item
-              </span>
-              
-					
-            </a>
-            
-                    
-            <button
-              aria-controls="EX500L3"
-              aria-expanded="true"
-              aria-haspopup="true"
-              aria-label="Expand submenu"
-              class="fd-button fd-nested-list__button"
-            >
-              
-                        
-              <i
-                class="sap-icon--navigation-right-arrow"
-                role="presentation"
-              />
-              
-                    
-            </button>
-            
-				
-          </div>
-          
-                
-          <ul
-            aria-hidden="false"
-            class="fd-nested-list fd-nested-list--text-only level-3"
-            id="EX500L3"
-          >
-            
-                    
-            <li
-              class="fd-nested-list__item"
-            >
-              
-                        
-              <a
-                class="fd-nested-list__link"
-                href="#/"
-              >
-                
-                            
-                <span
-                  class="fd-nested-list__title"
-                >
-                  Level 3 Item
-                </span>
-                
-                        
-              </a>
-              
-                    
-            </li>
-            
-                    
-            <li
-              class="fd-nested-list__item"
-            >
-              
-					   
-              <div
-                class="fd-nested-list__content has-child"
-                tabindex="0"
-              >
-                
-							
-                <a
-                  class="fd-nested-list__link"
-                  href="#"
-                  tabindex="-1"
-                >
-                  
-								
-                  <span
-                    class="fd-nested-list__title"
-                  >
-                    Level 3 Item
-                  </span>
-                  
-							
-                </a>
-                
-                            
-                <button
-                  aria-controls="EX500L4"
-                  aria-expanded="true"
-                  aria-haspopup="true"
-                  aria-label="Expand submenu"
-                  class="fd-button fd-nested-list__button"
-                >
-                  
-                                
-                  <i
-                    class="sap-icon--navigation-right-arrow"
-                    role="presentation"
-                  />
-                  
-                            
-                </button>
-                
-						
-              </div>
-              
-                        
-              <ul
-                aria-hidden="false"
-                class="fd-nested-list fd-nested-list--text-only level-4"
-                id="EX500L4"
-              >
-                
-                            
-                <li
-                  class="fd-nested-list__item"
-                >
-                  
-                                
-                  <a
-                    class="fd-nested-list__link"
-                    href="#/"
-                  >
-                    
-                                    
-                    <span
-                      class="fd-nested-list__title"
-                    >
-                      Level 4 Item
-                    </span>
-                    
-                                
-                  </a>
-                  
-                            
-                </li>
-                
-                            
-                <li
-                  class="fd-nested-list__item"
-                >
-                  
-                                
-                  <a
-                    class="fd-nested-list__link"
-                    href="#/"
-                  >
-                    
-                                    
-                    <span
-                      class="fd-nested-list__title"
-                    >
-                      Level 4 Item
-                    </span>
-                    
-                                
-                  </a>
-                  
-                            
-                </li>
-                
-                            
-                <li
-                  class="fd-nested-list__item"
-                >
-                  
-                                
-                  <a
-                    class="fd-nested-list__link"
-                    href="#/"
-                  >
-                    
-                                    
-                    <span
-                      class="fd-nested-list__title"
-                    >
-                      Level 4 Item
-                    </span>
-                    
-                                
-                  </a>
-                  
-                            
-                </li>
-                
-                        
-              </ul>
-              
-                    
-            </li>
-            
-                    
-            <li
-              class="fd-nested-list__item"
-            >
-              
-                        
-              <a
-                class="fd-nested-list__link"
-                href="#/"
-              >
-                
-                            
-                <span
-                  class="fd-nested-list__title"
-                >
-                  Level 3 Item
-                </span>
-                
-                        
-              </a>
-              
-                    
-            </li>
-            
-                
-          </ul>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#/"
-          >
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 2 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-        
-      </ul>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <a
-        class="fd-nested-list__link"
-        href="#/"
-      >
-        
-            
-        <i
-          class="fd-nested-list__icon sap-icon--activities"
-          role="presentation"
-        />
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__group-header"
-    >
-      
-        Group Header 2
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <a
-        class="fd-nested-list__link"
-        href="#/"
-      >
-        
-            
-        <i
-          class="fd-nested-list__icon sap-icon--bar-chart"
-          role="presentation"
-        />
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <a
-        class="fd-nested-list__link"
-        href="#/"
-      >
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-
-  </ul>
-  
-
-</div>
-`;
-
-exports[`Storyshots Deprecated/Components/Side Navigation Nested List With Icons Only In First Level 1`] = `
-<div
-  dir="ltr"
->
-  <ul
-    class="fd-nested-list"
-  >
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <a
-        class="fd-nested-list__link"
-        href="#/"
-      >
-        
-            
-        <i
-          class="fd-nested-list__icon sap-icon--home"
-          role="presentation"
-        />
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <a
-        class="fd-nested-list__link is-selected"
-        href="#/"
-      >
-        
-            
-        <i
-          class="fd-nested-list__icon sap-icon--calendar"
-          role="presentation"
-        />
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-	   
-      <div
-        class="fd-nested-list__content has-child is-expanded"
-        tabindex="0"
-      >
-        
-			
-        <a
-          class="fd-nested-list__link"
-          href="#"
-          tabindex="-1"
-        >
-          
-				
-          <i
-            class="fd-nested-list__icon sap-icon--employee"
-            role="presentation"
-          />
-          
-				
-          <span
-            class="fd-nested-list__title"
-          >
-            Level 1 Item
-          </span>
-          
-			
-        </a>
-        
-            
-        <button
-          aria-controls="EX300L2"
-          aria-expanded="true"
-          aria-haspopup="true"
-          aria-label="Expand submenu"
-          class="fd-button fd-nested-list__button"
-        >
-          
-                
-          <i
-            class="sap-icon--navigation-right-arrow"
-            role="presentation"
-          />
-          
-            
-        </button>
-        
-		
-      </div>
-      
-        
-      <ul
-        aria-hidden="false"
-        class="fd-nested-list fd-nested-list--text-only level-2"
-        id="EX300L2"
-      >
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#/"
-          >
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 2 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-			   
-          <div
-            class="fd-nested-list__content has-child"
-            tabindex="0"
-          >
-            
-					
-            <a
-              class="fd-nested-list__link"
-              href="#"
-              tabindex="-1"
-            >
-              
-						
-              <span
-                class="fd-nested-list__title"
-              >
-                Level 2 Item
-              </span>
-              
-					
-            </a>
-            
-                    
-            <button
-              aria-controls="EX300L3"
-              aria-expanded="true"
-              aria-haspopup="true"
-              aria-label="Expand submenu"
-              class="fd-button fd-nested-list__button"
-            >
-              
-                        
-              <i
-                class="sap-icon--navigation-right-arrow"
-                role="presentation"
-              />
-              
-                    
-            </button>
-            
-				
-          </div>
-          
-                
-          <ul
-            aria-hidden="false"
-            class="fd-nested-list fd-nested-list--text-only level-3"
-            id="EX300L3"
-          >
-            
-                    
-            <li
-              class="fd-nested-list__item"
-            >
-              
-                        
-              <a
-                class="fd-nested-list__link"
-                href="#/"
-              >
-                
-                            
-                <span
-                  class="fd-nested-list__title"
-                >
-                  Level 3 Item
-                </span>
-                
-                        
-              </a>
-              
-                    
-            </li>
-            
-                    
-            <li
-              class="fd-nested-list__item"
-            >
-              
-					   
-              <div
-                class="fd-nested-list__content has-child"
-                tabindex="0"
-              >
-                
-							
-                <a
-                  class="fd-nested-list__link"
-                  href="#"
-                  tabindex="-1"
-                >
-                  
-								
-                  <span
-                    class="fd-nested-list__title"
-                  >
-                    Level 3 Item
-                  </span>
-                  
-							
-                </a>
-                
-                            
-                <button
-                  aria-controls="EX300L4"
-                  aria-expanded="true"
-                  aria-haspopup="true"
-                  aria-label="Expand submenu"
-                  class="fd-button fd-nested-list__button"
-                >
-                  
-                                
-                  <i
-                    class="sap-icon--navigation-right-arrow"
-                    role="presentation"
-                  />
-                  
-                            
-                </button>
-                
-						
-              </div>
-              
-                        
-              <ul
-                aria-hidden="false"
-                class="fd-nested-list fd-nested-list--text-only level-4"
-                id="EX300L4"
-              >
-                
-                            
-                <li
-                  class="fd-nested-list__item"
-                >
-                  
-                                
-                  <a
-                    class="fd-nested-list__link"
-                    href="#/"
-                  >
-                    
-                                    
-                    <span
-                      class="fd-nested-list__title"
-                    >
-                      Level 4 Item
-                    </span>
-                    
-                                
-                  </a>
-                  
-                            
-                </li>
-                
-                            
-                <li
-                  class="fd-nested-list__item"
-                >
-                  
-                                
-                  <a
-                    class="fd-nested-list__link"
-                    href="#/"
-                  >
-                    
-                                    
-                    <span
-                      class="fd-nested-list__title"
-                    >
-                      Level 4 Item
-                    </span>
-                    
-                                
-                  </a>
-                  
-                            
-                </li>
-                
-                            
-                <li
-                  class="fd-nested-list__item"
-                >
-                  
-                                
-                  <a
-                    class="fd-nested-list__link"
-                    href="#/"
-                  >
-                    
-                                    
-                    <span
-                      class="fd-nested-list__title"
-                    >
-                      Level 4 Item
-                    </span>
-                    
-                                
-                  </a>
-                  
-                            
-                </li>
-                
-                        
-              </ul>
-              
-                    
-            </li>
-            
-                    
-            <li
-              class="fd-nested-list__item"
-            >
-              
-                        
-              <a
-                class="fd-nested-list__link"
-                href="#/"
-              >
-                
-                            
-                <span
-                  class="fd-nested-list__title"
-                >
-                  Level 3 Item
-                </span>
-                
-                        
-              </a>
-              
-                    
-            </li>
-            
-                
-          </ul>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#/"
-          >
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 2 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-        
-      </ul>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <a
-        class="fd-nested-list__link"
-        href="#/"
-      >
-        
-            
-        <i
-          class="fd-nested-list__icon sap-icon--activities"
-          role="presentation"
-        />
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <a
-        class="fd-nested-list__link"
-        href="#/"
-      >
-        
-            
-        <i
-          class="fd-nested-list__icon sap-icon--bar-chart"
-          role="presentation"
-        />
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <a
-        class="fd-nested-list__link"
-        href="#/"
-      >
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-
-  </ul>
-  
-
-</div>
-`;
-
-exports[`Storyshots Deprecated/Components/Side Navigation Nested List Without Icons 1`] = `
-<div
-  dir="ltr"
->
-  <ul
-    class="fd-nested-list fd-nested-list--text-only"
-  >
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <a
-        class="fd-nested-list__link"
-        href="#/"
-      >
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <a
-        class="fd-nested-list__link is-selected"
-        href="#/"
-      >
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-	    
-      <div
-        class="fd-nested-list__content has-child is-expanded"
-      >
-        
-			
-        <a
-          class="fd-nested-list__link"
-          href="#"
-        >
-          
-				
-          <span
-            class="fd-nested-list__title"
-          >
-            Level 1 Item
-          </span>
-          
-            
-        </a>
-        
-            
-        <button
-          aria-controls="EX100L25"
-          aria-expanded="true"
-          aria-haspopup="true"
-          aria-label="Expand submenu"
-          class="fd-button fd-nested-list__button"
-        >
-          
-                    
-          <i
-            class="sap-icon--navigation-right-arrow"
-            role="presentation"
-          />
-          
-            
-        </button>
-        
-		
-      </div>
-      
-        
-      <ul
-        aria-hidden="false"
-        class="fd-nested-list level-2"
-        id="EX100L25"
-      >
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-                
-          <a
-            class="fd-nested-list__link"
-            href="#/"
-          >
-            
-                    
-            <span
-              class="fd-nested-list__title"
-            >
-              Level 2 Item
-            </span>
-            
-                
-          </a>
-          
-            
-        </li>
-        
-            
-        <li
-          class="fd-nested-list__item"
-        >
-          
-			   
-          <div
-            class="fd-nested-list__content has-child"
-            tabindex="0"
-          >
-            
-					
-            <a
-              class="fd-nested-list__link"
-              href="#"
-              tabindex="-1"
-            >
-              
-						
-              <span
-                class="fd-nested-list__title"
-              >
-                Level 2 Item
-              </span>
-              
-                    
-            </a>
-            
-                    
-            <button
-              aria-controls="EX100L35"
-              aria-expanded="true"
-              aria-haspopup="true"
-              aria-label="Expand submenu"
-              class="fd-button fd-nested-list__button"
-            >
-              
-                        
-              <i
-                class="sap-icon--navigation-right-arrow"
-                role="presentation"
-              />
-              
-                    
-            </button>
-            
-				
-          </div>
-          
-                
-          <ul
-            aria-hidden="false"
-            class="fd-nested-list level-3"
-            id="EX100L35"
-          >
-            
-                    
-            <li
-              class="fd-nested-list__item"
-            >
-              
-                        
-              <a
-                class="fd-nested-list__link"
-                href="#/"
-              >
-                
-                            
-                <span
-                  class="fd-nested-list__title"
-                >
-                  Level 3 Item
-                </span>
-                
-                        
-              </a>
-              
-                    
-            </li>
-            
-                    
-            <li
-              class="fd-nested-list__item"
-            >
-              
-					   
-              <div
-                class="fd-nested-list__content has-child"
-                tabindex="0"
-              >
-                
-							
-                <a
-                  class="fd-nested-list__link"
-                  href="#"
-                  tabindex="-1"
-                >
-                  
-								
-                  <span
-                    class="fd-nested-list__title"
-                  >
-                    Level 3 Item
-                  </span>
-                  
-							
-                </a>
-                
-                            
-                <button
-                  aria-controls="EX100L45"
-                  aria-expanded="true"
-                  aria-haspopup="true"
-                  aria-label="Expand submenu"
-                  class="fd-button fd-nested-list__button"
-                >
-                  
-                                
-                  <i
-                    class="sap-icon--navigation-right-arrow"
-                    role="presentation"
-                  />
-                  
-                            
-                </button>
-                
-						
-              </div>
-              
-                        
-              <ul
-                aria-hidden="false"
-                class="fd-nested-list level-4"
-                id="EX100L45"
-              >
-                
-                            
-                <li
-                  class="fd-nested-list__item"
-                >
-                  
-                                
-                  <a
-                    class="fd-nested-list__link"
-                    href="#/"
-                  >
-                    
-                                    
-                    <span
-                      class="fd-nested-list__title"
-                    >
-                      Level 4 Item
-                    </span>
-                    
-                                
-                  </a>
-                  
-                            
-                </li>
-                
-                            
-                <li
-                  class="fd-nested-list__item"
-                >
-                  
-							   
-                  <div
-                    class="fd-nested-list__content has-child"
-                    tabindex="0"
-                  >
-                    
-									
-                    <a
-                      class="fd-nested-list__link"
-                      href="#"
-                      tabindex="-1"
+                    <div
+                      class="fd-nested-list__link-container"
                     >
                       
-										
+                                        
                       <span
                         class="fd-nested-list__title"
                       >
-                        Level 4 Item
+                        Level 3 Item
                       </span>
                       
-									
-                    </a>
-                    
                                     
-                    <button
-                      aria-controls="EX100L55"
-                      aria-expanded="true"
-                      aria-haspopup="true"
-                      aria-label="Expand submenu"
-                      class="fd-button fd-nested-list__button"
-                    >
-                      
-                                        
-                      <i
-                        class="sap-icon--navigation-right-arrow"
-                        role="presentation"
-                      />
-                      
-                                    
-                    </button>
-                    
-								
-                  </div>
-                  
-                                
-                  <ul
-                    aria-hidden="false"
-                    class="fd-nested-list level-5"
-                    id="EX100L55"
-                  >
-                    
-                                    
-                    <li
-                      class="fd-nested-list__item"
-                    >
-                      
-                                        
-                      <a
-                        class="fd-nested-list__link"
-                        href="#/"
-                      >
-                        
-                                            
-                        <span
-                          class="fd-nested-list__title"
-                        >
-                          Level 5 Item
-                        </span>
-                        
-                                        
-                      </a>
-                      
-                                    
-                    </li>
-                    
-                                    
-                    <li
-                      class="fd-nested-list__item"
-                    >
-                      
-									   
-                      <div
-                        class="fd-nested-list__content has-child"
-                        tabindex="0"
-                      >
-                        
-											
-                        <a
-                          class="fd-nested-list__link"
-                          href="#"
-                          tabindex="-1"
-                        >
-                          
-												
-                          <span
-                            class="fd-nested-list__title"
-                          >
-                            Level 5 Item
-                          </span>
-                          
-											
-                        </a>
-                        
-                                            
-                        <button
-                          aria-controls="EX100L65"
-                          aria-expanded="true"
-                          aria-haspopup="true"
-                          aria-label="Expand submenu"
-                          class="fd-button fd-nested-list__button"
-                        >
-                          
-                                                
-                          <i
-                            class="sap-icon--navigation-right-arrow"
-                            role="presentation"
-                          />
-                          
-                                            
-                        </button>
-                        
-										
-                      </div>
-                      
-                                        
-                      <ul
-                        aria-hidden="false"
-                        class="fd-nested-list level-6"
-                        id="EX100L65"
-                      >
-                        
-                                            
-                        <li
-                          class="fd-nested-list__item"
-                        >
-                          
-                                                
-                          <a
-                            class="fd-nested-list__link"
-                            href="#/"
-                          >
-                            
-                                                    
-                            <span
-                              class="fd-nested-list__title"
-                            >
-                              Level 6 Item
-                            </span>
-                            
-                                                
-                          </a>
-                          
-                                            
-                        </li>
-                        
-                                            
-                        <li
-                          class="fd-nested-list__item"
-                        >
-                          
-                                                
-                          <a
-                            class="fd-nested-list__link"
-                            href="#/"
-                          >
-                            
-                                                    
-                            <span
-                              class="fd-nested-list__title"
-                            >
-                              Level 6 Item
-                            </span>
-                            
-                                                
-                          </a>
-                          
-                                            
-                        </li>
-                        
-                                            
-                        <li
-                          class="fd-nested-list__item"
-                        >
-                          
-                                                
-                          <a
-                            class="fd-nested-list__link"
-                            href="#/"
-                          >
-                            
-                                                    
-                            <span
-                              class="fd-nested-list__title"
-                            >
-                              Level 6 Item
-                            </span>
-                            
-                                                
-                          </a>
-                          
-                                            
-                        </li>
-                        
-                                        
-                      </ul>
-                      
-                                    
-                    </li>
-                    
-                                    
-                    <li
-                      class="fd-nested-list__item"
-                    >
-                      
-                                        
-                      <a
-                        class="fd-nested-list__link"
-                        href="#/"
-                      >
-                        
-                                            
-                        <span
-                          class="fd-nested-list__title"
-                        >
-                          Level 5 Item
-                        </span>
-                        
-                                        
-                      </a>
-                      
-                                    
-                    </li>
+                    </div>
                     
                                 
-                  </ul>
+                  </a>
                   
                             
                 </li>
@@ -4660,15 +2488,55 @@ exports[`Storyshots Deprecated/Components/Side Navigation Nested List Without Ic
                                 
                   <a
                     class="fd-nested-list__link"
-                    href="#/"
+                    href="#"
                   >
                     
                                     
-                    <span
-                      class="fd-nested-list__title"
+                    <div
+                      class="fd-nested-list__link-container"
                     >
-                      Level 4 Item
-                    </span>
+                      
+                                        
+                      <span
+                        class="fd-nested-list__title"
+                      >
+                        Level 3 Item
+                      </span>
+                      
+                                    
+                    </div>
+                    
+                                
+                  </a>
+                  
+                            
+                </li>
+                
+                            
+                <li
+                  class="fd-nested-list__item"
+                >
+                  
+                                
+                  <a
+                    class="fd-nested-list__link is-selected"
+                    href="#"
+                  >
+                    
+                                    
+                    <div
+                      class="fd-nested-list__link-container"
+                    >
+                      
+                                        
+                      <span
+                        class="fd-nested-list__title"
+                      >
+                        Level 3 Item
+                      </span>
+                      
+                                    
+                    </div>
                     
                                 
                   </a>
@@ -4690,15 +2558,55 @@ exports[`Storyshots Deprecated/Components/Side Navigation Nested List Without Ic
                         
               <a
                 class="fd-nested-list__link"
-                href="#/"
+                href="#"
               >
                 
                             
-                <span
-                  class="fd-nested-list__title"
+                <div
+                  class="fd-nested-list__link-container"
                 >
-                  Level 3 Item
-                </span>
+                  
+                                
+                  <span
+                    class="fd-nested-list__title"
+                  >
+                    Level 2 Item
+                  </span>
+                  
+                            
+                </div>
+                
+                        
+              </a>
+              
+                    
+            </li>
+            
+                    
+            <li
+              class="fd-nested-list__item"
+            >
+              
+                        
+              <a
+                class="fd-nested-list__link"
+                href="#"
+              >
+                
+                            
+                <div
+                  class="fd-nested-list__link-container"
+                >
+                  
+                                
+                  <span
+                    class="fd-nested-list__title"
+                  >
+                    Level 3 Item
+                  </span>
+                  
+                            
+                </div>
                 
                         
               </a>
@@ -4720,15 +2628,55 @@ exports[`Storyshots Deprecated/Components/Side Navigation Nested List Without Ic
                 
           <a
             class="fd-nested-list__link"
-            href="#/"
+            href="#"
           >
             
                     
-            <span
-              class="fd-nested-list__title"
+            <div
+              class="fd-nested-list__link-container"
             >
-              Level 2 Item
-            </span>
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
             
                 
           </a>
@@ -4740,188 +2688,18 @@ exports[`Storyshots Deprecated/Components/Side Navigation Nested List Without Ic
       </ul>
       
     
-    </li>
+    </nav>
     
     
-    <li
-      class="fd-nested-list__item"
+    <nav
+      aria-label="Utility Menu"
+      class="fd-side-nav__utility"
     >
-      
-        
-      <a
-        class="fd-nested-list__link"
-        href="#/"
-      >
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <a
-        class="fd-nested-list__link"
-        href="#/"
-      >
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </a>
-      
-    
-    </li>
-    
-
-  </ul>
-  
-
-</div>
-`;
-
-exports[`Storyshots Deprecated/Components/Side Navigation Nested List Without Links 1`] = `
-<div
-  dir="ltr"
->
-  <ul
-    class="fd-nested-list fd-nested-list--compact"
-  >
-    
-    
-    <li
-      class="fd-nested-list__group-header"
-    >
-      
-        Group Header 1
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <div
-        class="fd-nested-list__content"
-      >
-        
-            
-        <i
-          class="fd-nested-list__icon sap-icon--home"
-          role="presentation"
-        />
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </div>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <div
-        class="fd-nested-list__content is-selected"
-      >
-        
-            
-        <i
-          class="fd-nested-list__icon sap-icon--calendar"
-          role="presentation"
-        />
-        
-            
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-        
-      </div>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-	   
-      <div
-        class="fd-nested-list__content has-child"
-        tabindex="0"
-      >
-        
-            
-        <i
-          class="fd-nested-list__icon sap-icon--employee"
-          role="presentation"
-        />
-        
-			
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
-        
-            
-        <button
-          aria-controls="EX600L2"
-          aria-expanded="true"
-          aria-haspopup="true"
-          aria-label="Expand submenu"
-          class="fd-button fd-nested-list__button"
-        >
-          
-                
-          <i
-            class="sap-icon--navigation-right-arrow"
-            role="presentation"
-          />
-          
-            
-        </button>
-        
-		
-      </div>
       
         
       <ul
-        aria-hidden="false"
-        class="fd-nested-list fd-nested-list--text-only level-2"
-        id="EX600L2"
+        aria-label="Utility Menu"
+        class="fd-nested-list fd-nested-list--text-only level-1"
       >
         
             
@@ -4930,19 +2708,28 @@ exports[`Storyshots Deprecated/Components/Side Navigation Nested List Without Li
         >
           
                 
-          <div
-            class="fd-nested-list__content"
+          <a
+            class="fd-nested-list__link"
+            href="#"
           >
             
                     
-            <span
-              class="fd-nested-list__title"
+            <div
+              class="fd-nested-list__link-container"
             >
-              Level 2 Item
-            </span>
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
             
                 
-          </div>
+          </a>
           
             
         </li>
@@ -4952,45 +2739,846 @@ exports[`Storyshots Deprecated/Components/Side Navigation Nested List Without Li
           class="fd-nested-list__item"
         >
           
-			   
-          <div
-            class="fd-nested-list__content has-child"
-            tabindex="0"
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
           >
             
-					
-            <span
-              class="fd-nested-list__title"
+                    
+            <div
+              class="fd-nested-list__link-container"
             >
-              Level 2 Item
-            </span>
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+        
+      </ul>
+      
+    
+    </nav>
+    
+
+  </div>
+  
+
+</div>
+`;
+
+exports[`Storyshots Components/Side Navigation Cosy Wide With Icon, 1 Level 1`] = `
+<div
+  dir="ltr"
+>
+  <div
+    class="fd-side-nav"
+    style="max-height: 500px;"
+  >
+    
+    
+    <nav
+      aria-label="Main Menu"
+      class="fd-side-nav__main-navigation"
+    >
+      
+        
+      <ul
+        class="fd-nested-list level-1"
+      >
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
             
                     
-            <button
-              aria-controls="EX600L3"
-              aria-expanded="true"
-              aria-haspopup="true"
-              aria-label="Expand submenu"
-              class="fd-button fd-nested-list__button"
+            <div
+              class="fd-nested-list__link-container"
             >
               
                         
               <i
-                class="sap-icon--navigation-right-arrow"
+                class="fd-nested-list__icon sap-icon--home"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link is-selected"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--calendar"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--employee"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--activities"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--lightbulb"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--history"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--future"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--activities"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--lead"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--notes"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--map"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--log"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--phone"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--product"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+        
+      </ul>
+      
+    
+    </nav>
+    
+    
+    <nav
+      aria-label="Utility Menu"
+      class="fd-side-nav__utility"
+    >
+      
+        
+      <ul
+        class="fd-nested-list level-1"
+      >
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--compare"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--chain-link"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+        
+      </ul>
+      
+    
+    </nav>
+    
+
+  </div>
+  
+
+</div>
+`;
+
+exports[`Storyshots Components/Side Navigation Cosy Wide With Icons, 3 Levels 1`] = `
+<div
+  dir="ltr"
+>
+  <div
+    class="fd-side-nav"
+  >
+    
+    
+    <nav
+      aria-label="Main Menu"
+      class="fd-side-nav__main-navigation"
+    >
+      
+        
+      <ul
+        aria-labelledby="EX400H1"
+        class="fd-nested-list level-1"
+      >
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--home"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--map"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <button
+            aria-expanded="true"
+            aria-label="Expand Level 2"
+            class="fd-nested-list__link"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--calendar"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                        
+              <i
+                class="fd-nested-list__arrow sap-icon--navigation-down-arrow"
                 role="presentation"
               />
               
                     
-            </button>
+            </div>
             
-				
-          </div>
+                
+          </button>
           
                 
           <ul
             aria-hidden="false"
-            class="fd-nested-list fd-nested-list--text-only level-3"
-            id="EX600L3"
+            class="fd-nested-list level-2"
           >
             
                     
@@ -4999,67 +3587,40 @@ exports[`Storyshots Deprecated/Components/Side Navigation Nested List Without Li
             >
               
                         
-              <div
-                class="fd-nested-list__content"
+              <button
+                aria-expanded="true"
+                aria-label="Expand Level 3"
+                class="fd-nested-list__link is-selected"
               >
                 
                             
-                <span
-                  class="fd-nested-list__title"
-                >
-                  Level 3 Item
-                </span>
-                
-                        
-              </div>
-              
-                    
-            </li>
-            
-                    
-            <li
-              class="fd-nested-list__item"
-            >
-              
-					   
-              <div
-                class="fd-nested-list__content has-child"
-                tabindex="0"
-              >
-                
-							
-                <span
-                  class="fd-nested-list__title"
-                >
-                  Level 3 Item
-                </span>
-                
-                            
-                <button
-                  aria-controls="EX600L4"
-                  aria-expanded="true"
-                  aria-haspopup="true"
-                  aria-label="Expand submenu"
-                  class="fd-button fd-nested-list__button"
+                <div
+                  class="fd-nested-list__link-container"
                 >
                   
                                 
+                  <span
+                    class="fd-nested-list__title"
+                  >
+                    Level 2 Item
+                  </span>
+                  
+                                
                   <i
-                    class="sap-icon--navigation-right-arrow"
+                    class="fd-nested-list__arrow sap-icon--navigation-down-arrow"
                     role="presentation"
                   />
                   
                             
-                </button>
+                </div>
                 
-						
-              </div>
+                        
+              </button>
               
                         
               <ul
                 aria-hidden="false"
-                class="fd-nested-list fd-nested-list--text-only level-4"
-                id="EX600L4"
+                class="fd-nested-list level-3"
               >
                 
                             
@@ -5068,19 +3629,28 @@ exports[`Storyshots Deprecated/Components/Side Navigation Nested List Without Li
                 >
                   
                                 
-                  <div
-                    class="fd-nested-list__content"
+                  <a
+                    class="fd-nested-list__link"
+                    href="#"
                   >
                     
                                     
-                    <span
-                      class="fd-nested-list__title"
+                    <div
+                      class="fd-nested-list__link-container"
                     >
-                      Level 4 Item
-                    </span>
+                      
+                                        
+                      <span
+                        class="fd-nested-list__title"
+                      >
+                        Level 3 Item
+                      </span>
+                      
+                                    
+                    </div>
                     
                                 
-                  </div>
+                  </a>
                   
                             
                 </li>
@@ -5091,19 +3661,28 @@ exports[`Storyshots Deprecated/Components/Side Navigation Nested List Without Li
                 >
                   
                                 
-                  <div
-                    class="fd-nested-list__content"
+                  <a
+                    class="fd-nested-list__link is-selected"
+                    href="#"
                   >
                     
                                     
-                    <span
-                      class="fd-nested-list__title"
+                    <div
+                      class="fd-nested-list__link-container"
                     >
-                      Level 4 Item
-                    </span>
+                      
+                                        
+                      <span
+                        class="fd-nested-list__title"
+                      >
+                        Level 3 Item
+                      </span>
+                      
+                                    
+                    </div>
                     
                                 
-                  </div>
+                  </a>
                   
                             
                 </li>
@@ -5114,19 +3693,28 @@ exports[`Storyshots Deprecated/Components/Side Navigation Nested List Without Li
                 >
                   
                                 
-                  <div
-                    class="fd-nested-list__content"
+                  <a
+                    class="fd-nested-list__link"
+                    href="#"
                   >
                     
                                     
-                    <span
-                      class="fd-nested-list__title"
+                    <div
+                      class="fd-nested-list__link-container"
                     >
-                      Level 4 Item
-                    </span>
+                      
+                                        
+                      <span
+                        class="fd-nested-list__title"
+                      >
+                        Level 3 Item
+                      </span>
+                      
+                                    
+                    </div>
                     
                                 
-                  </div>
+                  </a>
                   
                             
                 </li>
@@ -5143,19 +3731,60 @@ exports[`Storyshots Deprecated/Components/Side Navigation Nested List Without Li
             >
               
                         
-              <div
-                class="fd-nested-list__content"
+              <a
+                class="fd-nested-list__link"
+                href="#"
               >
                 
                             
-                <span
-                  class="fd-nested-list__title"
+                <div
+                  class="fd-nested-list__link-container"
                 >
-                  Level 3 Item
-                </span>
+                  
+                                
+                  <span
+                    class="fd-nested-list__title"
+                  >
+                    Level 2 Item
+                  </span>
+                  
+                            
+                </div>
                 
                         
-              </div>
+              </a>
+              
+                    
+            </li>
+            
+                    
+            <li
+              class="fd-nested-list__item"
+            >
+              
+                        
+              <a
+                class="fd-nested-list__link"
+                href="#"
+              >
+                
+                            
+                <div
+                  class="fd-nested-list__link-container"
+                >
+                  
+                                
+                  <span
+                    class="fd-nested-list__title"
+                  >
+                    Level 2 Item
+                  </span>
+                  
+                            
+                </div>
+                
+                        
+              </a>
               
                     
             </li>
@@ -5172,19 +3801,34 @@ exports[`Storyshots Deprecated/Components/Side Navigation Nested List Without Li
         >
           
                 
-          <div
-            class="fd-nested-list__content"
+          <a
+            class="fd-nested-list__link"
+            href="#"
           >
             
                     
-            <span
-              class="fd-nested-list__title"
+            <div
+              class="fd-nested-list__link-container"
             >
-              Level 2 Item
-            </span>
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--activities"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
             
                 
-          </div>
+          </a>
           
             
         </li>
@@ -5193,100 +3837,762 @@ exports[`Storyshots Deprecated/Components/Side Navigation Nested List Without Li
       </ul>
       
     
-    </li>
+    </nav>
     
     
-    <li
-      class="fd-nested-list__item"
+    <nav
+      aria-label="Utility Menu"
+      class="fd-side-nav__utility"
     >
       
         
-      <div
-        class="fd-nested-list__content"
+      <ul
+        aria-label="Utility Menu"
+        class="fd-nested-list level-1"
       >
         
             
-        <i
-          class="fd-nested-list__icon sap-icon--activities"
-          role="presentation"
-        />
-        
-            
-        <span
-          class="fd-nested-list__title"
+        <li
+          class="fd-nested-list__item"
         >
-          Level 1 Item
-        </span>
-        
-        
-      </div>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__group-header"
-    >
-      
-        Group Header 2
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <div
-        class="fd-nested-list__content"
-      >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--compare"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
         
             
-        <i
-          class="fd-nested-list__icon sap-icon--bar-chart"
-          role="presentation"
-        />
-        
-            
-        <span
-          class="fd-nested-list__title"
+        <li
+          class="fd-nested-list__item"
         >
-          Level 1 Item
-        </span>
-        
-        
-      </div>
-      
-    
-    </li>
-    
-    
-    <li
-      class="fd-nested-list__item"
-    >
-      
-        
-      <div
-        class="fd-nested-list__content"
-      >
-        
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
             
-        <span
-          class="fd-nested-list__title"
-        >
-          Level 1 Item
-        </span>
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--chain-link"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Level 1 Item
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
         
         
-      </div>
+      </ul>
       
     
-    </li>
+    </nav>
     
 
-  </ul>
+  </div>
+  
+
+</div>
+`;
+
+exports[`Storyshots Components/Side Navigation Dynamic Width 1`] = `
+<div
+  dir="ltr"
+>
+  <div
+    class="fd-side-nav fd-side-nav--dynamic-width"
+    style="max-height: 500px;"
+  >
+    
+    
+    <nav
+      aria-label="Main Menu"
+      class="fd-side-nav__main-navigation"
+    >
+      
+        
+      <ul
+        class="fd-nested-list level-1"
+      >
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--home"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Overview
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link is-selected"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--calendar"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--employee"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Sed do eiusmod tempor incididunt ut labore
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--activities"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Nemo enim ipsam
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--lightbulb"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Neque porro quisquam est, qui dolorem ipsum
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--history"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Quis autem vel eum iure
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--future"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Excepteur sint occaecat cupidatat
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--activities"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Ut enim ad minima veniam
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--lead"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Neque porro quisquam
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--notes"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Excepteur sint occaecat cupidatat
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--map"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Neque porro quisquam
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--log"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Ut enim ad minima veniam
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--phone"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Excepteur sint occaecat cupidatat
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--product"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Ut enim ad minima veniam
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+        
+      </ul>
+      
+    
+    </nav>
+    
+    
+    <nav
+      aria-label="Utility Menu"
+      class="fd-side-nav__utility"
+    >
+      
+        
+      <ul
+        class="fd-nested-list level-1"
+      >
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--compare"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Duis aute irure dolor 
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+            
+        <li
+          class="fd-nested-list__item"
+        >
+          
+                
+          <a
+            class="fd-nested-list__link"
+            href="#"
+          >
+            
+                    
+            <div
+              class="fd-nested-list__link-container"
+            >
+              
+                        
+              <i
+                class="fd-nested-list__icon sap-icon--chain-link"
+                role="presentation"
+              />
+              
+                        
+              <span
+                class="fd-nested-list__title"
+              >
+                Neque porro quisquam
+              </span>
+              
+                    
+            </div>
+            
+                
+          </a>
+          
+            
+        </li>
+        
+        
+      </ul>
+      
+    
+    </nav>
+    
+
+  </div>
   
 
 </div>
